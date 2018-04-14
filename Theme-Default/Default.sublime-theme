@@ -68,6 +68,6 @@
 		// status bar text
 	  "class": "label_control",
 	  "font.size": 12,
-	  "color": [15,222,52]
+	  "color": [5,166,0]
 	}
 ]
