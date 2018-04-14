@@ -1,0 +1,63 @@
+{
+	"animation_enabled": false,
+	"binary_file_patterns":
+	[
+		"node_modules/**",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"color_scheme": "Packages/User/Espresso Libre.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"**/node_modules/**",
+		"bower_components/**"
+	],
+	"node_path":
+	{
+		"linux": "/usr/local/bin/node",
+		"osx": "/usr/local/bin/node",
+		"windows": "C:/Program Files/nodejs/node.exe"
+	},
+	"paths":
+	{
+		"linux":
+		[
+			"/usr/local/bin/node"
+		],
+		"osx":
+		[
+		],
+		"windows":
+		[
+		]
+	},
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false
+}

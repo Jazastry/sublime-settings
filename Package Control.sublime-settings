@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"Color Highlighter",
+		"ColorPicker",
+		"Console Wrap",
+		"Diffy",
+		"DocBlockr",
+		"EJS 2",
+		"Emmet",
+		"Git",
+		"Git Commit Message Syntax",
+		"Github Color Theme",
+		"GitSyntaxes",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"JSX",
+		"LESS",
+		"LoremIpsum",
+		"Origami",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"SideBarEnhancements",
+		"Sublime Files",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Terminal",
+		"TrailingSpaces"
+	]
+}

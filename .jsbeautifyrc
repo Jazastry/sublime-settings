@@ -1,0 +1,15 @@
+{
+	"js": {
+		"e4x": true,
+		"end_with_newline": true,
+    "space_after_anon_function": true,
+    "indent_size": 2
+	},
+  "css": {
+    "indent_size": 2
+  },
+	"all": {
+    "end_with_newline": true,
+    "space_after_anon_function": true
+  }
+}

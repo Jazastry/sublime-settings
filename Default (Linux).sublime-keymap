@@ -1,0 +1,13 @@
+[
+	{"keys": ["ctrl+c"], "command": "copy"},
+	{"keys": ["ctrl+k", "ctrl+d"], "command": "diffy"},
+	{"keys": ["ctrl+s"], "command": "save_all"},
+	{"keys": ["ctrl+shift+r"], "command": "trim_trailing_white_space"},
+	{"keys": ["alt+up"], "command": "toggle_side_bar"},
+	{"keys": ["ctrl+shift+alt+f"], "command": "prompt_open_folder"},
+	{ "keys": ["ctrl+up"], "command": "scroll_lines", "args": {"amount": 1.0 } },
+	{ "keys": ["ctrl+down"], "command": "scroll_lines", "args": {"amount": -1.0 } },
+  { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+  { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+  { "keys": ["ctrl+shift+x"], "command": "cancel_build" }
+]

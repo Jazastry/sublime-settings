@@ -1,0 +1,73 @@
+/* MY SETTINGS */
+[
+	{
+		"class": "sidebar_container",
+		"layer0.tint": [65,60,59],
+		"layer0.opacity": 1.0,
+		"layer0.draw_center": false,
+		"layer0.inner_margin": [0, 0, 1, 0]
+	},
+	{
+		"class": "sidebar_tree",
+		"row_padding": [3, 4],
+		"indent": 12,
+		"indent_offset": 17,
+		"indent_top_level": false,
+		"layer0.tint": [42,33,28],
+		"layer0.opacity": 1.0,
+		"dark_content": false
+	},
+	{
+		"class": "sidebar_heading",
+		"color": [0,102,255],
+		"font.bold": true,
+		"shadow_color": [0,0,0],
+		"shadow_offset": [0, 1]
+	},
+	{
+	"class": "sidebar_heading",
+	"parents": [
+			{
+				"class": "tree_row",
+				"attributes": ["selected"]
+			}
+		],
+		"shadow_color": [0, 0, 0]
+	},
+	{
+		"class": "sidebar_label",
+		// "color": [4,155,10], // green
+		"color": [4,170,10],
+		"font.bold": false,
+		"shadow_color": [0,0,0],
+		"shadow_offset": [0, 0],
+		"font.size": 18
+	},
+	{
+		"class": "sidebar_label",
+		"parents": [{"class": "tree_row", "attributes": ["selected"]}],
+		"color": [0,102,255],
+		"shadow_color": [26, 26, 26],
+		"shadow_offset": [0, 1]
+	},
+	{
+		"class": "sidebar_label",
+		"parents": [{"class": "tree_row", "attributes": ["expandable"]}],
+		"settings": ["bold_folder_labels"],
+		"font.bold": true,
+		"color": [255,193,0]
+	},{
+	    "class": "icon_file_type",
+	    "layer0.opacity": 0.4,
+	    "content_margin": [10, 6]
+	},{
+	  "class": "status_bar",
+	  "content_margin": [8, 8, 8, 8],
+	  "layer0.tint": [33, 33, 33]
+	},{
+		// status bar text
+	  "class": "label_control",
+	  "font.size": 12,
+	  "color": [15,222,52]
+	}
+]

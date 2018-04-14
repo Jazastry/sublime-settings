@@ -1,0 +1,10 @@
+// Settings in here override those in "/User/consolewrap.sublime-settings",
+
+{
+	"js": {
+	    "consoleFunc"  : ["console", "log"],    // You can change default log statement for example ["logger", "info"] output: logger.info('title', variable);
+	    "single_quotes": true,                 // If true output: console.log('title', variable);
+	    "semicolon"    : false,                  // If false, will not add semicolon at end of line
+	    "log_types"    : ["log"]
+	}
+}
