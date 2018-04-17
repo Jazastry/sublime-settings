@@ -4,16 +4,19 @@
   "working_dir": "${project_path:${folder}}",
   "variants": [
     {
-      "name": "angel test - current folder",
-      "cmd": ["angel", "test", "$file_path"],
-      "selector": "source.js",
-      "working_dir": "${project_path:${folder}}",
-    },
-    {
       "name": "angel test - current file",
       "cmd": ["angel", "test", "$file"],
       "selector": "source.js",
       "working_dir": "${project_path:${folder}}",
+      "encoding": "utf-8",
+    },
+    {
+      "name": "angel test - current folder",
+      "cmd": ["angel", "test", "$file_path"],
+      "selector": "source.js",
+      "working_dir": "${project_path:${folder}}",
+      "encoding": "utf-8"
     }
-  ]
+  ],
+  "encoding": "utf-8"
 }
