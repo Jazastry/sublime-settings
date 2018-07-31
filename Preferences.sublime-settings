@@ -3,6 +3,7 @@
 	"binary_file_patterns":
 	[
 		"node_modules/**",
+		"**/node_modules/**",
 		"*.jpg",
 		"*.jpeg",
 		"*.png",
@@ -15,15 +16,17 @@
 		"*.pdf",
 		"*.swf",
 		"*.jar",
-		"*.zip"
+		"*.zip",
+		"**/build/**"
 	],
 	"color_scheme": "Packages/User/Espresso Libre.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
-	"draw_white_space": "all",
+	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 11,
+	"font_size": 12,
 	"ignored_packages":
 	[
+		"Git GUI Clients",
 		"Vintage"
 	],
 	"indent_guide_options":

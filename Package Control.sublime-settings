@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Git GUI Clients"
 	],
 	"installed_packages":
 	[
@@ -26,6 +27,7 @@
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
+		"PlainTasks",
 		"Sass",
 		"SideBarEnhancements",
 		"Sublime Files",
