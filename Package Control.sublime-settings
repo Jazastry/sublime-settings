@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Git GUI Clients"
 	],
 	"installed_packages":
 	[
@@ -15,26 +14,32 @@
 		"DocBlockr",
 		"EJS 2",
 		"Emmet",
+		"FuzzyFileNav",
 		"Git",
 		"Git Commit Message Syntax",
+		"GitGutter",
 		"Github Color Theme",
 		"GitSyntaxes",
 		"HTML Snippets",
 		"HTML-CSS-JS Prettify",
+		"JSONLint",
 		"JSX",
 		"LESS",
 		"LoremIpsum",
+		"MoveTab",
 		"Origami",
 		"Package Control",
 		"PackageResourceViewer",
 		"PlainTasks",
 		"Sass",
+		"Search in Project",
 		"SideBarEnhancements",
 		"Sublime Files",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
 		"Terminal",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"Trello"
 	]
 }

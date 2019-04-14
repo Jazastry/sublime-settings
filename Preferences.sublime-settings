@@ -1,4 +1,8 @@
 {
+	"added_words":
+	[
+		"Beauty"
+	],
 	"animation_enabled": false,
 	"binary_file_patterns":
 	[
@@ -20,14 +24,12 @@
 		"**/build/**"
 	],
 	"color_scheme": "Packages/User/Espresso Libre.tmTheme",
-	"dictionary": "Packages/Language - English/en_US.dic",
+	"dictionary": "Packages/User/Bulgarian.dic",
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Git GUI Clients",
-		"Vintage"
 	],
 	"indent_guide_options":
 	[
